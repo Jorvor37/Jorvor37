@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🚀 About Me<br>	•	🎓 Bachelor’s Degree in Computer Engineering (MUIC)<br>	•	🤖 Passionate about Software Development, AI Training, and BOT Creation<br>	•	🔍 Always eager to learn and explore new technologies<br><br>🌱 Current Projects<br>	•	🚀 Developing AI-powered applications<br>	•	🤖 Building and improving Trading BOTs<br>	•	💡 Exploring advanced algorithms and AI models
 
 
