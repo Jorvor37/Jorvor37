@@ -8,6 +8,8 @@
 • 🚀 Developing AI-powered applications
 • 💡 Exploring advanced algorithms and AI models
 
+🌐 **Portfolio & Socials**
+
 🌐 **Portfolio & Socials**  
 🔗 [**Visit My Website**](https://jorvor37.github.io/My_Portfolio/)  
 
