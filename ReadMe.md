@@ -1,12 +1,12 @@
 # 👨🏻‍🚀 About Me:
-🚀 **About Me**<br>  
-• 🎓 Bachelor’s Degree in Computer Engineering (MUIC)  
+🚀 **About Me**<br>
+• 🎓 Bachelor’s Degree in Computer Engineering (MUIC)
 • 🤖 Passionate about Software Development, Hardware Development and AI data learning.
-• 🔍 Always eager to learn and explore new technologies, I'm here to connnect
+• 🔍 Always eager to learn and explore new technologies, I'm here to connect.
 
-🌱 **Current Projects**  
-• 🚀 Full-stack Developing landing page website
-• 💡 Exploring advanced algorithms and AI models  
+🌱 **Current Projects**
+• 🚀 Developing AI-powered applications
+• 💡 Exploring advanced algorithms and AI models
 
 🌐 **Portfolio & Socials**  
 🔗 [**Visit My Website**](https://jorvor37.github.io/My_Portfolio/)  
