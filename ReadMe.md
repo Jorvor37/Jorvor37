@@ -1,16 +1,14 @@
 # 👨🏻‍🚀 About Me:
-🚀 **About Me**<br>
-• 🎓 Bachelor’s Degree in Computer Engineering (MUIC)
-• 🤖 Passionate about Software Development, Hardware Development and AI data learning.
+### 🚀 **About Me**<br>
+• 🎓 Bachelor’s Degree in Computer Engineering (MUIC)  
+• 🤖 Passionate about Software Development, Hardware Development and AI data learning.  
 • 🔍 Always eager to learn and explore new technologies, I'm here to connect.
 
-🌱 **Current Projects**
-• 🚀 Developing AI-powered applications
+### 🌱 **Current Projects**  
+• 🚀 Developing AI-powered applications  
 • 💡 Exploring advanced algorithms and AI models
 
-🌐 **Portfolio & Socials**
-
-🌐 **Portfolio & Socials**  
+### 🌐 **Portfolio & Socials**  
 🔗 [**Visit My Website**](https://jorvor37.github.io/My_Portfolio/)  
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/k_kongphopp)  
