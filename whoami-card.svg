@@ -52,7 +52,7 @@
 
   <!-- Right kanji -->
   <text x="868" y="110" font-family="Georgia, serif" font-size="26"
-        fill="#cc2200" opacity="0.3" text-anchor="middle">識</text>
+        fill="#cc2200" opacity="0.3" text-anchor="middle">我</text>
 
   <!-- Diamond accents -->
   <path d="M 840 55 L 846 48 L 852 55 L 846 62 Z" fill="none" stroke="#cc2200" stroke-width="0.6" opacity="0.25"/>
