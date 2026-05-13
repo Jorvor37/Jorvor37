@@ -45,7 +45,7 @@
   <line x1="40" y1="170" x2="860" y2="170" stroke="#cc2200" stroke-width="0.5" opacity="0.3"/>
 
   <!-- Quote -->
-  <text x="40" y="198" font-family="Georgia, serif" font-size="13" font-style="italic"
+  <text x="250" y="198" font-family="Georgia, serif" font-size="13" font-style="italic"
         fill="#ff4400" opacity="0.6" text-anchor="middle" letter-spacing="1">
     &#8220; The craftsman who masters the tool, masters the outcome. &#8221;
   </text>
