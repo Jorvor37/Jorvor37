@@ -85,13 +85,13 @@
 <div align="center">
 
 <!-- Stats card -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jorvor37&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=cc2200&text_color=cccccc&icon_color=cc4400" />
-<!-- Streak: switched to official demolab domain (Heroku is unreliable) -->
+<img height="180" src="https://github-stats-two-swart.vercel.app/api?username=Jorvor37&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=cc2200&text_color=cccccc&icon_color=cc4400" />
+
+<!-- Streak -->
 <img height="180" src="https://streak-stats.demolab.com/?user=Jorvor37&hide_border=true&background=0a0a0a&ring=cc2200&fire=ff4400&currStreakNum=ff4400&currStreakLabel=cc2200&sideLabels=cccccc&dates=888888&stroke=cc2200" />
 
-<br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorvor37&hide_border=true&bg_color=0a0a0a&title_color=cc2200&text_color=cccccc&layout=compact&hide=jupyter%20notebook&langs_count=8" />
+<!-- Most used -->
+<img height="180" src="https://github-stats-two-swart.vercel.app/api/top-langs/?username=Jorvor37&hide_border=true&bg_color=0a0a0a&title_color=cc2200&text_color=cccccc&layout=compact&hide=jupyter%20notebook&langs_count=8" />
 
 </div>
 
