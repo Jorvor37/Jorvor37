@@ -8,13 +8,13 @@
 <br/>
 
 <!-- Typing animation subtitle -->
-[![Typing](https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=800&color=CC2200&center=true&vCenter=true&width=600&lines=Engineer.+Innovator.+Dragon-tamer.;Software+%C2%B7+Hardware+%C2%B7+Artificial+Intelligence;Building+what's+next.)](https://git.io/typing-svg)
+[![Typing](https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=5000&pause=800&color=CC2200&center=true&vCenter=true&width=600&lines=Engineer.+Innovator.+Dragon-tamer.;Software+%C2%B7+Hardware+%C2%B7+Artificial+Intelligence;Building+what's+next.)](https://git.io/typing-svg)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/⛩%20%20PORTFOLIO-0a0a0a?style=for-the-badge&labelColor=cc2200)](https://jorvor37.github.io/My_Portfolio/)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-0a0a0a?style=for-the-badge&logo=Instagram&logoColor=cc2200&labelColor=0a0a0a)](https://instagram.com/k_kongphopp)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=cc2200&labelColor=0a0a0a)](https://linkedin.com/in/Jorvor37)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin-white&logoColor=cc2200)](https://linkedin.com/in/Jorvor37)
 [![Email](https://img.shields.io/badge/EMAIL-0a0a0a?style=for-the-badge&logo=gmail&logoColor=cc2200&labelColor=0a0a0a)](mailto:kongphop.kayoonvichien@gmail.com)
 
 </div>
@@ -25,23 +25,14 @@
 <!--                  WHOAMI                      -->
 <!-- ============================================ -->
 <img src="./banner-whoami.svg" width="100%" alt="whoami"/>
-
-```yaml
-name:     Kongphop Kayoonvichien
-alias:    Jorvor37
-degree:   B.Eng Computer Engineering — MUIC
-focus:    [ Software Dev, Hardware Dev, AI & ML ]
-location: Bangkok, Thailand
-mode:     always_learning: true
-```
-
-> *"The craftsman who masters the tool, masters the outcome."*
+<img src="./whoami-card.svg" width="100%"/>
 
 <br/>
 
 <!-- ============================================ -->
 <!--              CURRENT QUESTS                  -->
 <!-- ============================================ -->
+<!--
 <img src="./banner-quests.svg" width="100%" alt="current quests"/>
 
 ```diff
@@ -49,6 +40,7 @@ mode:     always_learning: true
 + ⚔️  Exploring advanced algorithms and AI models
 + 🐉  Connecting intelligence to everything
 ```
+-->
 
 <br/>
 
@@ -62,21 +54,24 @@ mode:     always_learning: true
 **LANGUAGES**
 
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-0a0a0a?style=for-the-badge&logo=c%2B%2B&logoColor=cc2200)
-![C](https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=cc4400)
 ![Java](https://img.shields.io/badge/Java-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-0a0a0a?style=for-the-badge&logo=cplusplus&logoColor=cc2200)
+![C](https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=cc4400)
+![HTML](https://img.shields.io/badge/HTML-0a0a0a?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-0a0a0a?style=for-the-badge&logo=css3&logoColor=1572B6)
+![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 **FRAMEWORKS & TOOLS**
 
 ![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0a0a0a?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=F05032)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jorvor37)
+[![AWS](https://img.shields.io/badge/AWS%20Certified-0a0a0a?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)](https://www.credly.com/badges/00aa69e1-72cb-4f25-a7f0-143f313a07c7/public_url)
 ![Figma](https://img.shields.io/badge/Figma-0a0a0a?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Lightroom](https://img.shields.io/badge/Lightroom-0a0a0a?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=31A8FF)
-
-**CERTIFICATIONS**
-
-[![AWS](https://img.shields.io/badge/AWS%20Certified-0a0a0a?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://www.credly.com/badges/00aa69e1-72cb-4f25-a7f0-143f313a07c7/public_url)
+![Lightroom](https://img.shields.io/badge/Lightroom-0a0a0a?style=for-the-badge&logo=adobelightroom&logoColor=31A8FF)
+![VS Code](https://img.shields.io/badge/VS%20Code-0a0a0a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 </div>
 
