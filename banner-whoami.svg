@@ -1,26 +1,44 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 70" width="900" height="70">
   <defs>
-    <linearGradient id="bannerBg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0a0a0a"/>
-      <stop offset="50%" stop-color="#1a0500"/>
-      <stop offset="100%" stop-color="#0a0a0a"/>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="40%" stop-color="#0e0200"/>
+      <stop offset="60%" stop-color="#0e0200"/>
+      <stop offset="100%" stop-color="#000000"/>
     </linearGradient>
+    <pattern id="scales" x="0" y="0" width="20" height="14" patternUnits="userSpaceOnUse">
+      <path d="M 0 7 Q 5 0 10 7" stroke="#cc2200" stroke-width="0.6" fill="none" opacity="0.18"/>
+      <path d="M 10 7 Q 15 0 20 7" stroke="#cc2200" stroke-width="0.6" fill="none" opacity="0.18"/>
+      <path d="M -10 14 Q -5 7 0 14" stroke="#cc2200" stroke-width="0.6" fill="none" opacity="0.12"/>
+      <path d="M 0 14 Q 5 7 10 14" stroke="#cc2200" stroke-width="0.6" fill="none" opacity="0.12"/>
+      <path d="M 10 14 Q 15 7 20 14" stroke="#cc2200" stroke-width="0.6" fill="none" opacity="0.12"/>
+    </pattern>
   </defs>
-  <rect width="900" height="70" fill="url(#bannerBg)" rx="6"/>
-  <!-- Left red bar -->
-  <rect x="0" y="0" width="6" height="70" fill="#cc2200"/>
-  <!-- Right kanji -->
-  <text x="860" y="44" font-family="serif" font-size="24" fill="#cc2200" opacity="0.6" text-anchor="middle">識</text>
-  <!-- Decorative dots -->
-  <circle cx="40" cy="20" r="1.5" fill="#cc2200" opacity="0.6"/>
-  <circle cx="40" cy="50" r="1.5" fill="#cc2200" opacity="0.6"/>
-  <!-- Terminal prompt -->
-  <text x="60" y="44" font-family="'Courier New', monospace" font-size="22" font-weight="bold" fill="#cc2200">$</text>
-  <text x="90" y="44" font-family="'Courier New', monospace" font-size="22" font-weight="bold" fill="#ffffff">whoami</text>
-  <!-- Animated cursor -->
-  <rect x="200" y="28" width="12" height="22" fill="#cc2200">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+
+  <rect width="900" height="70" fill="url(#bg)" rx="6"/>
+  <rect width="900" height="70" fill="url(#scales)" rx="6"/>
+
+  <rect x="0" y="0" width="4" height="70" fill="#cc2200" rx="1" opacity="0.9"/>
+  <line x1="18" y1="14" x2="18" y2="56" stroke="#cc2200" stroke-width="0.5" opacity="0.3"/>
+  <line x1="26" y1="20" x2="26" y2="50" stroke="#cc2200" stroke-width="0.4" opacity="0.2"/>
+
+  <line x1="0" y1="1" x2="900" y2="1" stroke="#cc2200" stroke-width="0.3" opacity="0.15"/>
+  <line x1="0" y1="69" x2="900" y2="69" stroke="#cc2200" stroke-width="0.5" opacity="0.5"/>
+
+  <text x="868" y="46" font-family="Georgia, serif" font-size="26"
+        fill="#cc2200" opacity="0.45" text-anchor="middle">識</text>
+
+  <path d="M 800 35 L 806 28 L 812 35 L 806 42 Z" fill="none" stroke="#cc2200" stroke-width="0.6" opacity="0.3"/>
+  <path d="M 820 35 L 826 28 L 832 35 L 826 42 Z" fill="none" stroke="#cc2200" stroke-width="0.6" opacity="0.2"/>
+
+  <!-- Title: exact dragon banner subtitle style -->
+  <text x="54" y="43"
+        font-family="Georgia, serif"
+        font-size="14"
+        fill="#ff4400"
+        letter-spacing="10">ABOUT ME</text>
+
+  <rect x="206" y="30" width="8" height="16" fill="#ff4400" opacity="0.5" rx="1">
+    <animate attributeName="opacity" values="0.5;0.05;0.5" dur="2s" repeatCount="indefinite"/>
   </rect>
-  <!-- Subtle bottom line -->
-  <line x1="0" y1="68" x2="900" y2="68" stroke="#cc2200" stroke-width="0.5" opacity="0.4"/>
 </svg>
