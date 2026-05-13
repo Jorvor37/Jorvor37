@@ -26,7 +26,7 @@
   <line x1="0" y1="69" x2="900" y2="69" stroke="#cc2200" stroke-width="0.5" opacity="0.5"/>
 
   <text x="868" y="46" font-family="Georgia, serif" font-size="26"
-        fill="#cc2200" opacity="0.45" text-anchor="middle">識</text>
+        fill="#cc2200" opacity="0.45" text-anchor="middle">我</text>
 
   <path d="M 800 35 L 806 28 L 812 35 L 806 42 Z" fill="none" stroke="#cc2200" stroke-width="0.6" opacity="0.3"/>
   <path d="M 820 35 L 826 28 L 832 35 L 826 42 Z" fill="none" stroke="#cc2200" stroke-width="0.6" opacity="0.2"/>
