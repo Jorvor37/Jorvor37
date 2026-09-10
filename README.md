@@ -72,6 +72,11 @@
 ![Figma](https://img.shields.io/badge/Figma-0a0a0a?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Lightroom](https://img.shields.io/badge/Lightroom-0a0a0a?style=for-the-badge&logo=adobelightroom&logoColor=31A8FF)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0a0a0a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-0a0a0a?style=for-the-badge&logo=openrouter&logoColor=6467F2)
+![Claude](https://img.shields.io/badge/Claude-0a0a0a?style=for-the-badge&logo=claude&logoColor=D97757)
+![Cursor](https://img.shields.io/badge/Cursor-0a0a0a?style=for-the-badge&logo=cursor&logoColor=ffffff)
+![Claude Design](https://img.shields.io/badge/Claude%20Design-0a0a0a?style=for-the-badge&logo=claude&logoColor=D97757)
+![EmailJS](https://img.shields.io/badge/EmailJS-0a0a0a?style=for-the-badge&logo=emailjs&logoColor=FF6C37)
 
 </div>
 
